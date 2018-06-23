@@ -1,1 +1,4 @@
 node_modules/
+
+# hide credentials of mongoDB account - sample file is nodemon.example.json
+nodemon.json
